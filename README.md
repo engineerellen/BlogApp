@@ -15,5 +15,6 @@ O projeto é dividido em camadas, separadas em pastas (descritas em parênteses)
   3 - No Package Manage console, digitar :
     Add-Migration InitialCreate
     Update-Database
-
+---------------------------
+Foi incluso também o arquivo Questões C#.docx que contem o questionario sobre c# respondido
     
