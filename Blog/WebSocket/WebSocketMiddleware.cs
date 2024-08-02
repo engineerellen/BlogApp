@@ -3,6 +3,9 @@ using System.Text;
 
 namespace BlogApp.WebSocket
 {
+    /// <summary>
+    /// O middleware gerencia conexões WebSocket e envia mensagens para os clientes.
+    /// </summary>
     public class WebSocketMiddleware
     {
         private readonly RequestDelegate _next;
